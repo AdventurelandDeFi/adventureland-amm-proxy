@@ -1,9 +1,9 @@
 {
-  "short_name": "GooseFinance",
-  "name": "GooseFinance",
+  "short_name": "Adventureland Finance",
+  "name": "Adventureland Finance",
   "icons": [
     {
-      "src": "./logo.png",
+      "src": "./adventureland/logo.png",
       "sizes": "160x160",
       "type": "image/png",
       "purpose": "any maskable"
