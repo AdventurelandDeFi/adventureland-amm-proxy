@@ -66,10 +66,10 @@ const config: MenuEntry[] = [
         label: 'Github',
         href: 'https://github.com/AdventurelandDeFi/',
       },
-      {
-        label: 'Docs',
-        href: 'https://goosedefi.gitbook.io/goose-finance/',
-      },
+      // {
+      //   label: 'Docs',
+      //   href: 'https://goosedefi.gitbook.io/goose-finance/',
+      // },
       // {
       //   label: 'Blog',
       //   href: 'https://goosefinance.medium.com/',
