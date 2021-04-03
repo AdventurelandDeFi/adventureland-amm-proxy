@@ -4,7 +4,7 @@
 
 "@adventureland-defi-libs/uikit@AdventurelandDeFi/uikit":
   version "0.10.2"
-  resolved "https://codeload.github.com/AdventurelandDeFi/uikit/tar.gz/458b8b8f115aca3f99507dd86df73bf35f8a9056"
+  resolved "https://codeload.github.com/AdventurelandDeFi/uikit/tar.gz/652f3f842ca66a62d6e90c31410cfe4431231d6a"
   dependencies:
     "@types/lodash" "^4.14.162"
     "@types/styled-system" "^5.1.10"
@@ -2704,10 +2704,17 @@
     "@types/react" "*"
     csstype "^3.0.2"
 
-"@types/styled-system@*", "@types/styled-system@^5.1.10":
+"@types/styled-system@*":
   version "5.1.10"
   resolved "https://registry.yarnpkg.com/@types/styled-system/-/styled-system-5.1.10.tgz#dcf5690dd837ca49b8de1f23cb99d510c7f4ecb3"
   integrity sha512-OmVjC9OzyUckAgdavJBc+t5oCJrNXTlzWl9vo2x47leqpX1REq2qJC49SEtzbu1OnWSzcD68Uq3Aj8TeX+Kvtg==
+  dependencies:
+    csstype "^3.0.2"
+
+"@types/styled-system@^5.1.10":
+  version "5.1.11"
+  resolved "https://registry.yarnpkg.com/@types/styled-system/-/styled-system-5.1.11.tgz#158849f3b14cdf8bf27a10f0cf87a2c3a89eb680"
+  integrity sha512-R+JxEZYa5T0HD2urViR/mdklVaGhwbNOtDoWWGQ1+z1CGs/gF1UAKCaS//YwsUwterEKpyaKxgaXyFNKF04GCA==
   dependencies:
     csstype "^3.0.2"
 

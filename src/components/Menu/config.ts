@@ -23,13 +23,18 @@ const config: MenuEntry[] = [
   },
   {
     label: 'Quests',
-    icon: 'FarmIcon',
+    icon: 'PickaxeIcon',
     href: 'https://adventureland.finance/quests'
   },
   {
     label: 'Shops',
     icon: 'PoolIcon',
     href: 'https://adventureland.finance/shops'
+  },
+  {
+    label: 'Lore',
+    icon: 'ScrollIcon',
+    href: 'https://adventureland.finance/lore'
   },
   // {
   //   label: 'Lottery',
@@ -66,10 +71,10 @@ const config: MenuEntry[] = [
         label: 'Github',
         href: 'https://github.com/AdventurelandDeFi/',
       },
-      // {
-      //   label: 'Docs',
-      //   href: 'https://goosedefi.gitbook.io/goose-finance/',
-      // },
+      {
+        label: 'Docs',
+        href: 'https://docs.adventureland.finance/',
+      },
       // {
       //   label: 'Blog',
       //   href: 'https://goosefinance.medium.com/',
