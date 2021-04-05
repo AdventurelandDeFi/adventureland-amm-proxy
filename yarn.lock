@@ -4,7 +4,7 @@
 
 "@adventureland-defi-libs/uikit@AdventurelandDeFi/uikit":
   version "0.10.2"
-  resolved "https://codeload.github.com/AdventurelandDeFi/uikit/tar.gz/652f3f842ca66a62d6e90c31410cfe4431231d6a"
+  resolved "https://codeload.github.com/AdventurelandDeFi/uikit/tar.gz/12ea829981b9ebd8146e23f59e2b151322a457ff"
   dependencies:
     "@types/lodash" "^4.14.162"
     "@types/styled-system" "^5.1.10"
