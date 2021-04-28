@@ -22,14 +22,19 @@ const config: MenuEntry[] = [
     ]
   },
   {
-    label: 'Quests',
+    label: 'Mines',
     icon: 'PickaxeIcon',
-    href: 'https://adventureland.finance/quests'
+    href: 'https://adventureland.finance/mines'
   },
   {
     label: 'Shops',
     icon: 'PoolIcon',
     href: 'https://adventureland.finance/shops'
+  },
+  {
+    label: 'Quests',
+    icon: 'QuestsIcon',
+    href: 'https://adventureland.finance/quests'
   },
   {
     label: 'Lore',
