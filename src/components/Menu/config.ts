@@ -69,6 +69,20 @@ const config: MenuEntry[] = [
     ]
   },
   {
+    label: 'Audits',
+    icon: 'AuditIcon',
+    items: [
+      {
+        label: 'TechRate',
+        href: 'https://adventureland.finance/files/TechRate-QuickCheck.pdf',
+      },
+      {
+        label: 'More coming soon..',
+        href: '#',
+      },
+    ],
+  },
+  {
     label: 'More',
     icon: 'MoreIcon',
     items: [
@@ -80,10 +94,10 @@ const config: MenuEntry[] = [
         label: 'Docs',
         href: 'https://docs.adventureland.finance/',
       },
-      // {
-      //   label: 'Blog',
-      //   href: 'https://goosefinance.medium.com/',
-      // },
+      {
+        label: 'Blog',
+        href: 'https://adventurelandfinance.medium.com/',
+      },
     ],
   },
   // {

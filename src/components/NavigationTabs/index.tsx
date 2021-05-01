@@ -97,7 +97,7 @@ export function SwapPoolTabs({ active }: { active: 'swap' | 'pool' }) {
 
 export const Nav = ({ activeIndex = 0 }: { activeIndex?: number }) => (
   <ButtonMenu activeIndex={activeIndex} size="sm" variant="subtle">
-    <ButtonMenuItem id="swap-nav-link" to="/swap" as={HistoryLink}>
+    {/* <ButtonMenuItem id="swap-nav-link" to="/swap" as={HistoryLink}>
       <TranslatedText translationId={8}>Swap</TranslatedText>
     </ButtonMenuItem>
     <ButtonMenuItem id="pool-nav-link" to="/pool" as={HistoryLink}>
@@ -111,7 +111,7 @@ export const Nav = ({ activeIndex = 0 }: { activeIndex?: number }) => (
       rel="noreferrer noopener"
     >
       Bridge
-    </ButtonMenuItem>
+    </ButtonMenuItem> */}
   </ButtonMenu>
 )
 
