@@ -13,10 +13,14 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Exchange',
-        href: '/swap'
+        href: 'https://exchange.adventureland.finance/#/swap'
       },
       {
         label: 'Liquidity',
+        href: 'https://exchange.adventureland.finance/pool'
+      },
+      {
+        label: 'V1 Liquidity',
         href: '/pool'
       }
     ]
@@ -41,11 +45,11 @@ const config: MenuEntry[] = [
     icon: 'ScrollIcon',
     href: 'https://adventureland.finance/lore'
   },
-  // {
-  //   label: 'Lottery',
-  //   icon: 'TicketIcon',
-  //   href: 'https://www.goosedefi.com/lottery'
-  // },
+  {
+    label: 'Lottery',
+    icon: 'TicketIcon',
+    href: 'https://adventureland.finance//lottery'
+  },
   {
     label: 'Info',
     icon: 'InfoIcon',
