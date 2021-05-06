@@ -17,7 +17,7 @@ const config: MenuEntry[] = [
       },
       {
         label: 'Liquidity',
-        href: 'https://exchange.adventureland.finance/pool'
+        href: 'https://exchange.adventureland.finance/#/pool'
       },
       {
         label: 'V1 Liquidity',
